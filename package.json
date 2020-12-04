@@ -1,0 +1,33 @@
+{
+  "name": "discord-v12-registerbot",
+  "version": "0.0.1",
+  "description": "DJSV12 register bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "habinfojs": "^1.0.0",
+    "http": "^0.0.0",
+    "humanize-duration": "^3.24.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/itsbbq/discord-bos-altyapi/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
